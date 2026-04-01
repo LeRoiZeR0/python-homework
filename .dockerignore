@@ -1,0 +1,10 @@
+# .dockerignore
+__pycache__
+venv/
+env/
+.git
+.gitignore
+*.log
+*.xlsx
+.DS_Store
+*.md
