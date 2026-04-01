@@ -37,4 +37,4 @@ COPY . .
 
 # 容器启动命令
 # 因为这是一个常驻的定时任务脚本，直接运行 python main.py
-CMD ["python", "main.py"]
+CMD ["python", "lesson6_main.py"]
